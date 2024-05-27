@@ -13,7 +13,7 @@ This is my first godot game. Created by following Brackeys tutorial on youtube.
 <img src="Screenshot%202024-05-26%20222222.png" href="Screenshot%202024-05-26%20222222.png" width="400">
 
 ## Download
-[Download](https://github.com/smb78998/First-Godot-Game/blob/main/First%20Game.exe) FirstGame.exe below file to play
+[Download](https://github.com/smb78998/First-Godot-Game/blob/main/First%20Game.exe) FirstGame.exe below to play
 
 ## Built with
 
