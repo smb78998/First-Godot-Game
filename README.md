@@ -1,6 +1,8 @@
 # First Godot Game
 
+
 This is my first godot game. Created by following Brackeys tutorial on youtube. 
+[Play online here!](https://maplesyyrupp.itch.io/first-godot-game)
 
 ## Table of contents
 
